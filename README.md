@@ -29,12 +29,5 @@ SVM Learning Database
 
 ![Alt text](https://github.com/mrmohim/Paddy-Leaf-Disease-Detection-Using-SVM-Classifier/blob/master/Image/Picture6.png)
 
-Experimental Results
----------
 
-![Alt text](https://github.com/mrmohim/Paddy-Leaf-Disease-Detection-Using-SVM-Classifier/blob/master/Image/Picture8.png)
 
-Note
----------
-
-**IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://github.com/mrmohim/Assembly-Language-Code/pulls).**
